@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+node_modules/
+__pycache__/
+*.pyc
+
+# Arquivos de trabalho pessoal — nunca commitar
+j3f-context.md
+PASSO-A-PASSO-*.md
+Manual de marca J3F 2026.pdf
+inject-brand-into-skills.sh
+push-to-github.sh
+.claude/
+local-*.md
